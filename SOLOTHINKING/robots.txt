@@ -1,0 +1,128 @@
+# ================================================================
+# robots.txt — SoloThinking.com
+# SEO + AI Crawler Policy — May 2026
+# ================================================================
+
+Sitemap: https://solothinking.com/sitemap.xml
+
+# ── DEFAULT ──────────────────────────────────────────────────────
+User-agent: *
+Allow: /
+
+# ── GOOGLE ───────────────────────────────────────────────────────
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+# ── BING / YAHOO / DUCKDUCKGO ────────────────────────────────────
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: DuckAssistBot
+Allow: /
+
+# ── OPENAI (ChatGPT) ─────────────────────────────────────────────
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+# ── ANTHROPIC (Claude) ───────────────────────────────────────────
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+# ── PERPLEXITY ───────────────────────────────────────────────────
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+# ── META AI ──────────────────────────────────────────────────────
+User-agent: FacebookBot
+Allow: /
+
+User-agent: Meta-ExternalAgent
+Allow: /
+
+User-agent: Meta-ExternalFetcher
+Allow: /
+
+# ── APPLE ────────────────────────────────────────────────────────
+User-agent: Applebot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+# ── AMAZON ───────────────────────────────────────────────────────
+User-agent: Amazonbot
+Allow: /
+
+# ── BYTEDANCE (TikTok) ───────────────────────────────────────────
+User-agent: Bytespider
+Allow: /
+
+# ── COHERE ───────────────────────────────────────────────────────
+User-agent: cohere-ai
+Allow: /
+
+# ── COMMON CRAWL ─────────────────────────────────────────────────
+User-agent: CCBot
+Allow: /
+
+# ── SEO TOOLS — ALLOWED (tu inhe use karta hai) ──────────────────
+# SEMrush — allow karo warna site audit kaam nahi karega
+User-agent: SemrushBot
+Allow: /
+
+# Ahrefs — allow karo for backlink monitoring
+User-agent: AhrefsBot
+Allow: /
+
+# ── BLOCKED — No value, waste crawl budget ───────────────────────
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+User-agent: omgili
+Disallow: /
+
+User-agent: Omgilibot
+Disallow: /
+
+User-agent: Diffbot
+Disallow: /
+
+User-agent: Baiduspider
+Disallow: /
+
+User-agent: YandexBot
+Disallow: /
+
+# ================================================================
+# Last updated: May 2026
+# ================================================================
