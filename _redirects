@@ -1,51 +1,21 @@
 # ============================================
-# 410 Gone - Old Blog Posts (24 URLs)
+# 410 Gone - All Old WordPress Content
 # ============================================
-/2025/08/29/how-to-save-money-on-groceries/               410
-/2025/08/29/how-to-fall-asleep-fast/                      410
-/2025/08/25/best-low-budget-gaming-laptop-2025-affordable/ 410
-/2025/08/24/cryptocurrency-live-prices/                   410
-/2025/08/22/apple-iphone-17-launch/                       410
-/2025/08/25/us-china-tariff-war/                          410
-/2025/08/22/nordvpn-review-powerful-features-but-disappointing-transparency/ 410
-/2025/08/22/a-fitbit-ring-might-be-exactly-what-we-need/  410
-/2025/08/24/cristiano-ronaldo-religion-2025/              410
-/2025/08/23/teeth-whitening-tips/                         410
-/2025/08/22/hollow-knight-silksong-release-date-confirmed-launching-worldwide/ 410
-/2025/08/26/earn-money-online-in-2025-smart-ways-that-work/ 410
-/2025/08/26/earn-money-with-ai-tools-to-work/             410
-/2025/08/27/digital-marketing-beginner-guide-2025/        410
-/2025/08/27/how-to-use-saas-to-grow-your-digital-marketing-business/ 410
-/2025/08/22/10-tips-for-healthy-lifestyle-2025/           410
-/2025/08/27/silent-hill-movies-critical-analysis-2025/    410
-/2025/08/28/cryptocurrency-best-ways-to-earn-online-in-2025-cryptocurrency/ 410
-/2025/08/28/plastic-free-laundry-detergent-your-ultimate-guide-to-a-greener-clean2025/ 410
-/2025/08/28/best-credit-card-for-groceries-in-2025-maximize-your-cash-back-rewards/ 410
-/2025/08/28/windows-11-slow-after-update-10-proven-fixes-to-speed-it-up/ 410
-/2025/08/28/home-office-back-pain-best-7-expert-tips-for-instant-relief-prevention/ 410
-/2025/08/23/how-to-live-a-healthy-lifestyle-in-2025-10-healthy-habits-for-a-better-life/ 410
-/2025/08/22/trump-agrees-to-drop-250-eu-pharma-tariff-in-new-trade-deal/ 410
 
-# ============================================
-# 410 Gone - Category Pages (6 URLs)
-# ============================================
-/category/uncategorized/         410
-/category/tech/                   410
-/category/news/                   410
-/category/entertainment/          410
-/category/health/                 410
-/category/techh/                  410
+# Old blog posts (pattern match - one line covers all 24)
+/2025/08/*                                                             410
 
-# ============================================
-# 410 Gone - Old Tools (10 URLs)
-# ============================================
-/ultimate-tools/                                          410
-/scientific-figures-calculator/                           410
-/password-generator-strength-checker-free-secure-tool/    410
-/universal-unit-converter/                                410
-/file-compressor/                                         410
-/keyword-density-checker/                                 410
-/blog-tool-integrator/                                    410
-/free-internal-linking-tool-boost-seo-improve-site-structure/ 410
-/free-faq-schema-generator-tool/                          410
-/keywordnest-long-tail-keyword-generator/                 410
+# Old category pages
+/category/*                                                            410
+
+# Old tools pages
+/ultimate-tools/                                                        410
+/scientific-figures-calculator/                                         410
+/password-generator-strength-checker-free-secure-tool/                  410
+/universal-unit-converter/                                              410
+/file-compressor/                                                       410
+/keyword-density-checker/                                               410
+/blog-tool-integrator/                                                  410
+/free-internal-linking-tool-boost-seo-improve-site-structure/           410
+/free-faq-schema-generator-tool/                                        410
+/keywordnest-long-tail-keyword-generator/                               410
