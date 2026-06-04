@@ -1,21 +1,13 @@
-# ============================================
-# 410 Gone - All Old WordPress Content
-# ============================================
+/2025/08/* 410
+/category/* 410
 
-# Old blog posts (pattern match - one line covers all 24)
-/2025/08/*                                                             410
-
-# Old category pages
-/category/*                                                            410
-
-# Old tools pages
-/ultimate-tools/                                                        410
-/scientific-figures-calculator/                                         410
-/password-generator-strength-checker-free-secure-tool/                  410
-/universal-unit-converter/                                              410
-/file-compressor/                                                       410
-/keyword-density-checker/                                               410
-/blog-tool-integrator/                                                  410
-/free-internal-linking-tool-boost-seo-improve-site-structure/           410
-/free-faq-schema-generator-tool/                                        410
-/keywordnest-long-tail-keyword-generator/                               410
+/ultimate-tools/ 410
+/scientific-figures-calculator/ 410
+/password-generator-strength-checker-free-secure-tool/ 410
+/universal-unit-converter/ 410
+/file-compressor/ 410
+/keyword-density-checker/ 410
+/blog-tool-integrator/ 410
+/free-internal-linking-tool-boost-seo-improve-site-structure/ 410
+/free-faq-schema-generator-tool/ 410
+/keywordnest-long-tail-keyword-generator/ 410
